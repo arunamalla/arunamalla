@@ -1,19 +1,14 @@
 <h1 align="center">
-
 Hi 👋, I'm Aruna Malla
-
 </h1>
-
 <h4 align="center">
+14+ years of experience in IT industry as a developer turned digital hr transformation consultant.
+    
+    I excel in providing BI solutions, Platform integration using REST API
+    My day job made me an expert in technical and programming skills required to manage Enterprise Applications (Oracle Cloud, Oracle on-  premise) for small-based companies.
 
-14+ years of experience in IT industry as a developer turned digital hr transformation consultant
-
-I excel in providing BI solutions, Platform integration using REST API
-
-My day job made me an expert in technical and programming skills required to manage Enterprise Applications (Oracle Cloud, Oracle on-premise) for small-based companies.
-
-My passion - is in web 3, AI/ML. Learning web 3 now. except some Web 3 development(noje.js, express.js, Java Script, Ethereum, Solana, Solidity) related content here.
-
+    My passion - is in web 3, AI/ML. Learning web 3 now. 
+    except some Web 3 development(noje.js, express.js, Java Script, Ethereum, Solana, Solidity) related content here.
 </h4>
 
 -   🔭 I'm currently working on my personal site/blog [ReinventAnalytics](https://reinventanalytics.com/), and an Apps integration platform.
